@@ -6,11 +6,11 @@ export const networkName = {
   // eslint-disable-next-line @typescript-eslint/naming-convention
   '1': 'mainnet',
   // eslint-disable-next-line @typescript-eslint/naming-convention
-  '5': 'goerli',
+  '58008': 'sepolia',
   // eslint-disable-next-line @typescript-eslint/naming-convention
-  '4': 'rinkeby',
+  '17000': 'holesky',
   // eslint-disable-next-line @typescript-eslint/naming-convention
-  '3': 'ropsten',
+  '8899': 'jibchain',
   // eslint-disable-next-line @typescript-eslint/naming-convention
   '1337': 'local',
 }
