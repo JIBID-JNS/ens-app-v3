@@ -53,6 +53,7 @@ export const RESOLVER_ADDRESSES: ResolverAddresses = {
     '0xd7a4F6473f32aC2Af804B3686AE8F1932bC35750', // This is fill in resolver. Not actual contract address
     '0x84eA74d481Ee0A5332c457a4d796187F6Ba67fEB',
   ],
+  // eslint-disable-next-line @typescript-eslint/naming-convention
   '8899': ['0xC880430D2694A794ebd5bCa6bd50cE4d8bebA09C'],
 }
 
@@ -69,6 +70,7 @@ export const NAMEWRAPPER_AWARE_RESOLVERS: ResolverAddresses = {
   '11155111': ['0x8FADE66B79cC9f707aB26799354482EB93a5B7dD'],
   // eslint-disable-next-line @typescript-eslint/naming-convention
   '1337': ['0x0E801D84Fa97b50751Dbf25036d067dCf18858bF'],
+  // eslint-disable-next-line @typescript-eslint/naming-convention
   '8899': ['0x54fEb22E7b72c0e8e7f07b7BC7bFDF08c8d9b056'],
 }
 

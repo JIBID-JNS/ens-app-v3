@@ -82,7 +82,7 @@ export const Basic = withErrorBoundary(({ children }: { children: React.ReactNod
         // currentChain?.id === 5 ||
         // currentChain?.id === 11155111 ||
         // currentChain?.id === 1337
-        currentChain?.id === 8899
+        (currentChain?.id === 8899)
       )
     ) {
       switchNetwork?.(8899)
